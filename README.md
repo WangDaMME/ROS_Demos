@@ -1,12 +1,11 @@
 # ROS_Demos
 
 
-![](workspace/RESULT%20IMAGES/Demo.gif)
-![](workspace/res_gif/topic.PNG)
 
 ## Project 1 - ROS Communication (Topic/Service)
 1. Create a Publisher and command the turtle for circular motion
    Create a Subsciber node to display its pose info.
+
 ![](demo1/catkin_ws/RESULT%20IMAGES/Demo.gif)
 
 2. Create a Server node and give birth to a new turtle.
