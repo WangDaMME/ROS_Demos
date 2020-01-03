@@ -9,10 +9,12 @@
 <img src="demo1/catkin_ws/res_gif/topic.gif" width="600" height="400">
 </div>
 
-
 2. Create a Server node and give birth to a new turtle.
-![](demo1/catkin_ws/res_gif/birth.gif )
+<div align="center">
+<img src="demo1/catkin_ws/res_gif/birth.gif" width="600" height="400">
+</div>
 
 3. Give birth to a new turtle & Command the motion of the turtle via Command Prompt.
-![](demo1/catkin_ws/res_gif/cmd_create.gif )
-
+<div align="center">
+<img src="demo1/catkin_ws/res_gif/cmd_create.gif" width="600" height="400">
+</div>
