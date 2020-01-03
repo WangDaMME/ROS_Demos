@@ -16,5 +16,5 @@
 
 3. Give birth to a new turtle & Command the motion of the turtle via Command Prompt.
 <div align="center">
-<img src="demo1/catkin_ws/res_gif/cmd_create.gif" width="600" height="400">
+<img src="demo1/catkin_ws/res_gif/cmd_create.gif" width="600">
 </div>
