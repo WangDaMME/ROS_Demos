@@ -7,6 +7,8 @@
    Create a Subsciber node to display its pose info.
 ![](demo1/catkin_ws/res_gif/topic.gif?imageMogr2/auto-orient/strip%70CimageView2/2/w/100)
 
+<img src="demo1/catkin_ws/res_gif/topic.gif" width="48">
+
 
 2. Create a Server node and give birth to a new turtle.
 ![](demo1/catkin_ws/res_gif/birth.gif )
