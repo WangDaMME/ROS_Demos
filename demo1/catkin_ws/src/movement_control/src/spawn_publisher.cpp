@@ -30,14 +30,14 @@ int main(int argc , char** argv)
   while(ros::ok())
   {
     geometry_msgs::Twist msg;
-    if (!strcmp(argv[1],"start" || strcmp(argv[1],"START"))){
+    if (!strcmp(argv[1],"start") || !strcmp(argv[1],"START")){
 
        msg.linear.x = atol(argv[3]);
        msg.angular.z = atol(argv[4]);
        ROS_INFO("publish velocity:\nlinear.x %lf\nangular.z %lf",msg.linear.x,msg.angular.z);
        velocity_circle_pub.publish(msg);
     }
-    else if (!strcmp(argv[1],"stop" || strcmp(argv[1],"STOP"))){
+    else if (!strcmp(argv[1],"stop") || !strcmp(argv[1],"STOP")){
 
        msg.linear.x = 0.0;
        msg.angular.z = 0.0;
