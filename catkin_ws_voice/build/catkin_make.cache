@@ -1,0 +1,2 @@
+robot_voice
+-DCATKIN_DEVEL_PREFIX=/home/wangda/catkin_ws_voice/devel -DCMAKE_INSTALL_PREFIX=/home/wangda/catkin_ws_voice/install -G Unix Makefiles

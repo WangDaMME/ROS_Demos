@@ -1,0 +1,8 @@
+prefix=/home/wangda/catkin_ws_voice/install
+
+Name: robot_voice
+Description: Description of robot_voice
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/wangda/catkin_ws_voice/install/lib 
+Requires: 
