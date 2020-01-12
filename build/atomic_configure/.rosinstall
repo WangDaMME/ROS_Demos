@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/wangda/catkin_ws_voice/devel/setup.sh
