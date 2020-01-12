@@ -1,13 +1,13 @@
 # ROS_Demos
 
 hr.new5 {
-  border: 10px solid Aquamarine;
+  border: 10px solid green;
   border-radius: 5px;
 }
 
 
 
-<hr>
+<hr color="green">
 ## Project 1 - ROS Communication (Topic/Service)
 1. Create a Publisher and command the turtle for circular motion
    Create a Subsciber node to display its pose info.
