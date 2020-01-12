@@ -1,0 +1,8 @@
+prefix=/home/robond/workspace3/catkin_ws/install
+
+Name: movement_control
+Description: Description of movement_control
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/robond/workspace3/catkin_ws/install/lib 
+Requires: 

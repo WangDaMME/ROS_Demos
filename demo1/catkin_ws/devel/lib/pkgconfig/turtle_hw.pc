@@ -1,0 +1,8 @@
+prefix=/home/robond/workspace3/catkin_ws/devel
+
+Name: turtle_hw
+Description: Description of turtle_hw
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/robond/workspace3/catkin_ws/devel/lib 
+Requires: 
