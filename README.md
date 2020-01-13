@@ -6,17 +6,27 @@ Based on the iFlyTek open-source Voice Navigation package, Ros is interacted wit
 1. iat Node.<br>
    Waiting for the WakeUp signal --> listen to the Speech input --> Recognization --> Output the String.
 <div align="center">
-<img src="catkin_ws_voice/voice_res_gif/iat.gif" width="600" height="400">
+<img src="https://github.com/WangDaMME/ROS_Demos/blob/master/catkin_ws_voice/voice_result_gif/iat.gif" width="600" height="400">
+</div>
 </div>
 
 2. tts Node.<br>
    Waiting for the WakeUp signal --> input the String --> Recognization --> Output the Voice.
 <div align="center">
-<img src="https://github.com/WangDaMME/ROS_Demos/blob/master/catkin_ws_voice/voice_result_gif/iat.gif" width="600" height="400">
+<img src="https://github.com/WangDaMME/ROS_Demos/blob/master/catkin_ws_voice/voice_result_gif/tts.gif" width="600" height="400">
 </div>
 
+3. Repeat Voice Demo.<br>
+   Waiting for the WakeUp signal --> input the Speech --> Recognization --> Repeat after the Speech.
+<div align="center">
+<a ="https://www.youtube.com/watch?v=V6Msm9cNnYM" target="_blank">
+</div>
 
-
+4. Voice Attendant. <br>
+   Recognize the speech and use the method of "Matching the key word" to respond to corresponding input questions, ie. What is the robot's age, function, what time it is now?...
+<div align="center">
+<a ="https://www.youtube.com/watch?v=uXRiw2IMd9Q" target="_blank">
+</div>
 
 <hr>
 ## Project 1 - ROS Communication (Topic/Service)
