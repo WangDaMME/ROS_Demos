@@ -1,6 +1,6 @@
 # ROS_Demos
 
-## Project 3 - ROS Voice Navigation
+## Project 3 - ROS Voice Interaction
 Based on the iFlyTek open-source Voice Navigation package, Ros is interacted with voice by 'iat_publish' node (transfer Recognized Speech to String) and 'tts_subsceibe' (input String and output Speech).
 
 1. iat Node.<br>
