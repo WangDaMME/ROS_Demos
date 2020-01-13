@@ -3,16 +3,16 @@
 ## Project 3 - ROS Voice Navigation
 Based on the iFlyTek open-source Voice Navigation package, Ros is interacted with voice by 'iat_publish' node (transfer Recognized Speech to String) and 'tts_subsceibe' (input String and output Speech).
 
-1. iat Node.
+1. iat Node.<br>
    Waiting for the WakeUp signal --> listen to the Speech input --> Recognization --> Output the String.
 <div align="center">
 <img src="catkin_ws_voice/voice_res_gif/iat.gif" width="600" height="400">
 </div>
 
-2. tts Node.
+2. tts Node.<br>
    Waiting for the WakeUp signal --> input the String --> Recognization --> Output the Voice.
 <div align="center">
-<img src="catkin_ws_voice/voice_res_gif/tts.gif" width="600" height="400">
+<img src="/blob/master/catkin_ws_voice/voice_result_gif/iat.gif" width="600" height="400">
 </div>
 
 
