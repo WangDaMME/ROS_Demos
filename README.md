@@ -12,7 +12,7 @@ Based on the iFlyTek open-source Voice Navigation package, Ros is interacted wit
 2. tts Node.<br>
    Waiting for the WakeUp signal --> input the String --> Recognization --> Output the Voice.
 <div align="center">
-<img src="/blob/master/catkin_ws_voice/voice_result_gif/iat.gif" width="600" height="400">
+<img src="https://github.com/WangDaMME/ROS_Demos/blob/master/catkin_ws_voice/voice_result_gif/iat.gif" width="600" height="400">
 </div>
 
 
